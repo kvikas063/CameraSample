@@ -13,6 +13,7 @@
 		4E4148D2289E2A3900A65265 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E4148D0289E2A3900A65265 /* Main.storyboard */; };
 		4E4148D4289E2A3C00A65265 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E4148D3289E2A3C00A65265 /* Assets.xcassets */; };
 		4E4148D7289E2A3C00A65265 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E4148D5289E2A3C00A65265 /* LaunchScreen.storyboard */; };
+		4E4148DF289E6C6800A65265 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4E4148DE289E6C6800A65265 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4E4148D3289E2A3C00A65265 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E4148D6289E2A3C00A65265 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E4148D8289E2A3C00A65265 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E4148DE289E6C6800A65265 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		6B2514394CAB3FE105DDA38F /* Pods_iOSAssignment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOSAssignment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEBC100CE1223FB0EB93D10A /* Pods-iOSAssignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOSAssignment.debug.xcconfig"; path = "Target Support Files/Pods-iOSAssignment/Pods-iOSAssignment.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +69,7 @@
 				4E4148D3289E2A3C00A65265 /* Assets.xcassets */,
 				4E4148D5289E2A3C00A65265 /* LaunchScreen.storyboard */,
 				4E4148D8289E2A3C00A65265 /* Info.plist */,
+				4E4148DE289E6C6800A65265 /* README.md */,
 			);
 			path = iOSAssignment;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				4E4148D7289E2A3C00A65265 /* LaunchScreen.storyboard in Resources */,
 				4E4148D4289E2A3C00A65265 /* Assets.xcassets in Resources */,
+				4E4148DF289E6C6800A65265 /* README.md in Resources */,
 				4E4148D2289E2A3900A65265 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
